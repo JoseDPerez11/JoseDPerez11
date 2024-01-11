@@ -1,6 +1,6 @@
 # 💫 About Me:
 🏆 Estudiante de Ingeniería de Software de la Universidad Tecnológica del Perú, <br>
-👯 Estoy buscando colaborar en proyectos android<br>🌱 Centro mis conocimientos en el desarrollo móvil, usando como lenguaje de programación Kotlin y Java<br>💬 Pregúntame sobre cualquier tema de programación <br>⚡ Dato curioso: El nombre Kotlin viene de una isla llamada <br>      Kotlin que se encuentra cerca de San Petersburgo, Rusia.
+👯 Estoy buscando colaborar en proyectos<br>🌱 Centro mis conocimientos en el desarrollo móvil, usando como lenguaje de programación Kotlin y Java<br>💬 Pregúntame sobre cualquier tema de programación <br>⚡ Dato curioso: El nombre Kotlin viene de una isla llamada <br>      Kotlin que se encuentra cerca de San Petersburgo, Rusia.
 
 
 ## 🌐 Socials:
